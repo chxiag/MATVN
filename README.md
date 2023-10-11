@@ -1,6 +1,6 @@
 # MATVN
 
-PyTorch implementation of MATVN described in the paper entitled "Multi-Scale Adaptive Attention-based Time-Variant Neural Networks for Multi-Step Time Series Forecasting" by Changxia Gao, Ning Zhang, Youru Li and Huaiyu Wan.
+PyTorch implementation of MATVN described in the paper entitled "Multi-Scale Adaptive Attention-based Time-Variant Neural Networks for Multi-Step Time Series Forecasting" by Changxia Gao, Ning Zhang, Youru Li, Yan Lin and Huaiyu Wan.
 
 
 The key benifits of MATVN are:
