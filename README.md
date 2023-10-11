@@ -20,6 +20,9 @@ The key benifits of MATVN are:
 - optimizer.py: Implements Open AI version of Adam algorithm with weight decay fix.
 - train.py: Contains a rudimentary training function to train MATVN.
 
+## Data
+All the data in the paper can be found here https://arxiv.org/pdf/2012.07436.pdf.
+
 ## Usage
 
 Run the demo.py script to train and evaluate MATVN model. 
